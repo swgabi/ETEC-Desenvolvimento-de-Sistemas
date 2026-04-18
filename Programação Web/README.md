@@ -8,3 +8,7 @@ Nesta disciplina, aprendi na teoria e na prática:
 * **CSS:** Aplicação de estilos, layout e design visual para tornar as páginas atraentes e responsivas.
 * **JavaScript:** Implementação de interatividade, manipulação da DOM e lógica de comportamento do lado do cliente (Frontend).
 * **Bootstrap:** Habilidade de aplicar este poderoso framework para agilizar o desenvolvimento.
+
+* ## Minha opinião sobre cada projeto
+
+* **Agência de Viagem** 
