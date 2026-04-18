@@ -11,4 +11,7 @@ Nesta disciplina, aprendi na teoria e na prática:
 
 * ## Minha opinião sobre cada projeto
 
-* **Agência de Viagem** 
+* **atividadeFormulario: ** Feito com HTML, CSS e JS. Um site para coletar os dados de um usuário e após apertar o botão de envio,
+* as informações aparecem logo abaixo. Fiz o site com a ajuda do bootstrap. Ponto negativo, não soube centralizar a section, então o site só fica centralizado
+* se diminuir o zoom da página.
+* 
