@@ -9,7 +9,7 @@ Nesta disciplina, aprendi na teoria e na prática:
 * **JavaScript:** Implementação de interatividade, manipulação da DOM e lógica de comportamento do lado do cliente (Frontend).
 * **Bootstrap:** Habilidade de aplicar este poderoso framework para agilizar o desenvolvimento.
 
-* ## Minha opinião sobre cada projeto
+## Minha opinião sobre cada projeto
 
 * **Atividade Formulário:** Feito com HTML, CSS e JS. Um site para coletar os dados de um usuário e após apertar o botão de envio,
 as informações aparecem logo abaixo. Fiz o site com a ajuda do bootstrap. Ponto negativo, não soube centralizar a section, então o site só fica centralizado
