@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+
+    <script src="js/script.js" defer></script>
+
+</head>
+<body>
+    
+    <form action="" method="post">
+
+        <div>
+            <div>
+                <label> Nome </label>
+            </div>
+
+            <div>
+                <input type="text" id="nomeTxt">
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <label> Sobrenome </label>
+            </div>
+
+            <div>
+                <input type="text" id="sobrenomeTxt">
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <label> E-mail </label>
+            </div>
+
+            <div>
+                <input type="email" id="emailTxt" placeholder="fulaninho@gmail.com">
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <label> Data de Nascimento </label>
+            </div>
+
+            <div>
+                <input type="date" id="dataNascTxt">
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <label> Telefone </label>
+            </div>
+
+            <div>
+                <input type="tel" id="telTxt" placeholder="(xx) xxxxx-xxxx">
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <label> Assunto </label>
+            </div>
+
+            <div>
+                <input type="text" id="assuntoTxt" placeholder="Ex: Dúvida">
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <label> Mensagem </label>
+                <p>
+                    <textarea name="Mensagem" rows="6" id="msgTxt"></textarea>
+                </p>
+            </div>
+        </div>        
+
+        <div>
+            <button type="button"> Enviar </button>
+        </div>    
+
+        <div id="resultado"></div>
+        
+    </form>
+
+</body>
+</html>
