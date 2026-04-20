@@ -11,9 +11,7 @@ Nesta disciplina, aprendi na teoria e na prática:
 
 ## Minha opinião sobre cada projeto
 
-* **Atividade Formulário:** Feito com HTML, CSS e JS. Um site para coletar os dados de um usuário e após apertar o botão de envio,
-as informações aparecem logo abaixo. Fiz o site com a ajuda do bootstrap. Ponto negativo, não soube centralizar a section, então o site só fica centralizado
-se diminuir o zoom da página.
+* **Atividade Formulário:** Feito com HTML, CSS, JS e Bootstrap. Um site para coletar os dados de um usuário e apresenta-los após apertar o botão de envio.
 * **Forms teste:** Feito com HTML e JS. Foi uma atividade apenas para teste e para aprender um pouco sobre JS.
 * **Menu:** Feito com HTML e um pouco de CSS. Apenas para aprender a fazer uma navbar, display: flex, flex-direction e justify-content. Nesta aula o professor
 também nos passou um arquivo que faz um reset nas predefinições do css.
