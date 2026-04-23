@@ -1,0 +1,205 @@
+.nav-item{
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    margin-top: 2vh;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+
+.containerLogo {
+    margin-top: 2vh;
+    margin-left: 14vh;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container2 {
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container3 {
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+
+footer {
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+
+
+#textoInicial {
+    display: flex;
+    align-content: space-between;
+    flex-direction: column;
+    width: 190vh;
+}
+
+#tituloPrincipal {
+    font-size: 8vh;
+    color: #1800AD;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tamPoster {
+    width: 60vh;
+    height: auto;
+}
+
+.figure {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    
+
+}
+
+.col2 {
+    position: absolute;
+    background-color: rgba(5, 5, 5, 0.525);
+    width: 60vh;
+    height: 45vh;   
+    bottom: 0.5px;
+}
+
+.colBanner {
+    position: absolute;
+    background-color: rgba(5, 5, 5, 0.525);
+    width: 6500vh;
+    height: 3000vh;   
+    right: 0.5px;
+    bottom: 0.25px;
+   
+}
+
+
+.textoPoster {
+    position: absolute;
+    left: 11vh;
+    bottom: 9vh;  
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.textoPoster2 {
+    position: absolute;
+    left: 13vh;
+    bottom: 9vh;  
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.textoPoster3 {
+    position: absolute;
+    left: 14vh;
+    bottom: 9vh;  
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.textoPoster4 {
+    position: absolute;
+    left: 12vh;
+    bottom: 9vh;  
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.textoPoster5 {
+    position: absolute;
+    left: 13vh;
+    bottom: 9vh;  
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.textoPoster6 {
+    position: absolute;
+    left: 12vh;
+    bottom: 9vh;  
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+#badge {
+    background-color: #f86000;
+}
+
+hr{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.175);
+}
+
+.imgBannerFlex {
+    display: flex;
+}
+
+#imgBanner{
+    position: relative;
+}
+
+.escurecerImgBanner {
+    position: absolute;
+    background-color: rgba(5, 5, 5, 0.522);
+    width: 100%;
+    height: 50.2%;
+    bottom: 21%;
+}
+
+
+.tituloQuarto {
+    font-size: 5vh;
+    color: #000000;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tituloQuarto:hover {
+    color: #000000;
+}
+
+
+.descQuarto {
+    font-size: 3vh;
+    color: rgba(0, 0, 0, 0.74);
+}
