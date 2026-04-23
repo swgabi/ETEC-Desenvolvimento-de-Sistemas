@@ -11,6 +11,7 @@ Nesta disciplina, aprendi na teoria e na prática:
 
 ## Sobre cada projeto
 
+* **Agência Viagem:** Feito com HTML, CSS e Bootstrap. Um site que simula uma agência de viagens, com informações sobre onde se hospedar e pontos turísticos de cada país. 
 * **Atividade Formulário:** Feito com HTML, CSS, JS e Bootstrap. Um site para coletar os dados de um usuário e apresenta-los após apertar o botão de envio.
 * **Forms teste:** Feito com HTML e JS. Foi uma atividade apenas para teste e para aprender um pouco sobre JS.
 * **Site de Curso:** Feito com HTML, CSS, JS e Bootstrap. Uma atividade para aprender a usar o bootsrap, fiz o design da logo e toda a identidade visual do site.
